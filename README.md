@@ -18,7 +18,7 @@ You can run the notebooks in your browser without installing anything thanks to
 "launch binder" badge above and it will launch remotely a new notebook server
 for you:
 
-- [Run on binder](https://mybinder.org/v2/gh/tth030/SM_ESR_isostasy/main?urlpath=lab)
+- [Run on binder](https://github.com/tth030/my-first-binder/main?urlpath=lab)
 
 ### Install and run locally (Conda)
 
