@@ -73,36 +73,36 @@ Please cite each specific source when using these data.
 
 ### ETOPO1
 
-        - [https://www.ngdc.noaa.gov/mgg/global/](https://www.ngdc.noaa.gov/mgg/global/)
-        - NOAA National Geophysical Data Center. 2009: ETOPO1 1 Arc-Minute Global Relief Model. NOAA National Centers for Environmental Information. Accessed [date]\
-        - Amante, C. and B.W. Eakins, 2009. ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24. National Geophysical Data Center, NOAA. [doi:10.7289/V5C8276M](http://dx.doi.org/10.7289/V5C8276M) [access date]
+- [https://www.ngdc.noaa.gov/mgg/global/](https://www.ngdc.noaa.gov/mgg/global/)
+- NOAA National Geophysical Data Center. 2009: ETOPO1 1 Arc-Minute Global Relief Model. NOAA National Centers for Environmental Information. Accessed [date]\
+- Amante, C. and B.W. Eakins, 2009. ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24. National Geophysical Data Center, NOAA. [doi:10.7289/V5C8276M](http://dx.doi.org/10.7289/V5C8276M) [access date]
 
 ### Seafloor ages and spreading rate
 
-        - [https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust/](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust/)
-        - Müller, R.D., M. Sdrolias, C. Gaina, and W.R. Roest 2008. Age, spreading rates and spreading symmetry of the world's ocean crust, Geochem. Geophys. Geosyst., 9, Q04006, [doi:10.1029/2007GC001743](https://doi.org/10.1029/2007GC001743)
+- [https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust/](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust/)
+- Müller, R.D., M. Sdrolias, C. Gaina, and W.R. Roest 2008. Age, spreading rates and spreading symmetry of the world's ocean crust, Geochem. Geophys. Geosyst., 9, Q04006, [doi:10.1029/2007GC001743](https://doi.org/10.1029/2007GC001743)
 
 ### Horizontal strain rate
 
-        - [https://gsrm2.unavco.org/intro/intro.html](https://gsrm2.unavco.org/intro/intro.html)
-        - Kreemer, C., G. Blewitt, E.C. Klein, 2014, A geodetic plate motion and Global Strain Rate Model, Geochemistry, Geophysics, Geosystems, 15, 3849-3889, [https://doi.org/10.1002/2014GC005407](https://doi.org/10.1002/2014GC005407)
+- [https://gsrm2.unavco.org/intro/intro.html](https://gsrm2.unavco.org/intro/intro.html)
+- Kreemer, C., G. Blewitt, E.C. Klein, 2014, A geodetic plate motion and Global Strain Rate Model, Geochemistry, Geophysics, Geosystems, 15, 3849-3889, [https://doi.org/10.1002/2014GC005407](https://doi.org/10.1002/2014GC005407)
 
 ### High resolution bathymetry data
 
-        - [https://www.gmrt.org/about/](https://www.gmrt.org/about/)
-        - Ryan, W. B. F., et al. (2009), Global Multi-Resolution Topography synthesis, Geochem. Geophys. Geosyst., 10, Q03014, [doi:10.1029/2008GC002332](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GC002332)
+- [https://www.gmrt.org/about/](https://www.gmrt.org/about/)
+- Ryan, W. B. F., et al. (2009), Global Multi-Resolution Topography synthesis, Geochem. Geophys. Geosyst., 10, Q03014, [doi:10.1029/2008GC002332](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GC002332)
 
 ### Lithospheric thickness (average based on several seismological estimates)
 
-        - Steinberger, B. and Becker, T.W. A comparison of lithospheric thickness models, Tectonophysics, 746 (2018), pp. 325-338, [doi.org/10.1016/j.tecto.2016.08.001](https://www.sciencedirect.com/science/article/pii/S004019511630316X?via%3Dihub)
+- Steinberger, B. and Becker, T.W. A comparison of lithospheric thickness models, Tectonophysics, 746 (2018), pp. 325-338, [doi.org/10.1016/j.tecto.2016.08.001](https://www.sciencedirect.com/science/article/pii/S004019511630316X?via%3Dihub)
 
 ### Age of the lithosphere from seismological analysis
 
-        - Poupinet, G., Shapiro, N.M. Worldwide distribution of ages of the continental lithosphere derived from a global seismic tomographic model, Lithos, 109 (2009), pp. 125-130, [doi.org/10.1016/j.lithos.2008.10.023](https://www.sciencedirect.com/science/article/pii/S0024493708002582?via%3Dihub)
+- Poupinet, G., Shapiro, N.M. Worldwide distribution of ages of the continental lithosphere derived from a global seismic tomographic model, Lithos, 109 (2009), pp. 125-130, [doi.org/10.1016/j.lithos.2008.10.023](https://www.sciencedirect.com/science/article/pii/S0024493708002582?via%3Dihub)
 
 ### Hot spots list
 
-        - [http://www.mantleplumes.org/P%5E4/P%5e4Chapters/MorganP4ElectronicSupp1.pdf](http://www.mantleplumes.org/P%5E4/P%5e4Chapters/MorganP4ElectronicSupp1.pdf)
-        - Morgan, W.J. and Morgan, J.P. Plate velocities in the hotspot reference frame, Plates, Plumes and Planetary Processes, Gillian R. Foulger, Donna M. Jurdy, (2007), [doi.org/10.1130/2007.2430(04)](https://pubs.geoscienceworld.org/gsa/books/book/618/chapter/3805271/Plate-velocities-in-the-hotspot-reference-frame)
+- [http://www.mantleplumes.org/P%5E4/P%5e4Chapters/MorganP4ElectronicSupp1.pdf](http://www.mantleplumes.org/P%5E4/P%5e4Chapters/MorganP4ElectronicSupp1.pdf)
+- Morgan, W.J. and Morgan, J.P. Plate velocities in the hotspot reference frame, Plates, Plumes and Planetary Processes, Gillian R. Foulger, Donna M. Jurdy, (2007), [doi.org/10.1130/2007.2430(04)](https://pubs.geoscienceworld.org/gsa/books/book/618/chapter/3805271/Plate-velocities-in-the-hotspot-reference-frame)
 
 
