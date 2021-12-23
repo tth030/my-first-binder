@@ -13,11 +13,13 @@ This Repository allows:
 - Displaying and downloading thermodynamic solutions including input files, raw data and grids of density, melt fraction,...
 - Computing basic 1-D isostatic balance for a reference case
 
+## Content
 
 - [How to run the notebooks?](#how-to-run-the-notebooks)
     - [Run in the cloud (Binder)](#run-in-the-cloud-binder)
     - [Install and run locally (Conda)](#install-and-run-locally-conda)
-- [How to contribute?](#how-to-contribute)
+- [Jupyter notebooks](#jupyter-notebooks)
+- [Datasets](#datasets)
 
 ## How to run the notebooks?
 
