@@ -26,9 +26,8 @@ This Repository allows:
 ### Run in the cloud (Binder)
 
 You can run the notebooks in your browser without installing anything thanks to
-[binder](https://mybinder.org/). Just follow the link below or click on the
-"launch binder" badge above and it will launch remotely a new notebook server
-for you:
+[binder](https://mybinder.org/). Just follow the link below and it will launch 
+remotely a new notebook server for you:
 
 - [Run on binder](https://mybinder.org/v2/gh/tth030/my-first-binder/main?labpath=start.ipynb)
 
