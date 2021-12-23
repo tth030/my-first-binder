@@ -2,12 +2,16 @@
 my-first-binder
 
 This repository contains a collection of [Jupyter notebooks](#jupyter-notebooks) and [datasets](#datasets) as supplement of the following research paper:
-    - Theunissen, T., Huismans, R.S., Lu, G. and Riel, N. Relative continent/mid-ocean ridge elevation: a reference case for isostasy in geodynamics. Earth-Science Reviews (Under preparation, submission december 2021)
+
+- Theunissen, T., Huismans, R.S., Lu, G. and Riel, N. Relative continent/mid-ocean ridge elevation: a reference case for isostasy in geodynamics. Earth-Science Reviews (Under preparation, submission december 2021)
+
+***Please cite the source when using these data.***
 
 This Repository allows:
-    - Displaying data and computing statistics on elevation of continents and mid-ocean ridges
-    - Displaying and downloading thermodynamic solutions including input files, raw data and grids of density, melt fraction,...
-    - Computing basic 1-D isostatic balance for a reference case
+
+- Displaying data and computing statistics on elevation of continents and mid-ocean ridges
+- Displaying and downloading thermodynamic solutions including input files, raw data and grids of density, melt fraction,...
+- Computing basic 1-D isostatic balance for a reference case
 
 
 - [How to run the notebooks?](#how-to-run-the-notebooks)
@@ -69,7 +73,7 @@ $ jupyter-lab start.ipynb
 
 Some files provided here (data/) comes from a preliminary filtering using a command that is described in each binary header (can be read using `ncinfo` or `gmt gmtinfo`). Links provided here will give you access directly to the raw data or to a contact email.
 
-Please cite each specific source when using these data.
+***Please cite each specific source when using these data.***
 
 ### ETOPO1
 
